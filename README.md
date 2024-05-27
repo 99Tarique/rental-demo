@@ -1,4 +1,4 @@
 # rental-demo
 this is my first php Git repository
 <br>
-Author-Tarique shah
+Author-Tarique (Tezzid)
